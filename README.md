@@ -173,6 +173,12 @@ After starting the app, visit:
 - Swagger UI: `http://localhost:8080/swagger-ui.html`
 - OpenAPI JSON: `http://localhost:8080/v3/api-docs`
 
+## Roadmap
+- Add claim appeal workflow
+- Integrate with insurance provider APIs
+- Add real-time claim status notifications
+- Build admin dashboard with React
+
 ## Project Structure
 
 ```
